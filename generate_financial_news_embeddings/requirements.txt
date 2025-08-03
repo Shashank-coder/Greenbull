@@ -1,0 +1,7 @@
+google-cloud-bigquery
+sentence-transformers
+numpy
+pandas
+transformers
+torch
+huggingface_hub

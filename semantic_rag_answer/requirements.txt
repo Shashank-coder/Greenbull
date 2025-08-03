@@ -1,0 +1,6 @@
+google-cloud-bigquery
+weaviate-client>=4.3.0
+sentence-transformers
+flask
+db-dtypes
+together

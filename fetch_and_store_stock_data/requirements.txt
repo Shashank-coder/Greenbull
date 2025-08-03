@@ -1,0 +1,4 @@
+google-cloud-bigquery
+yfinance
+requests
+functions-framework
